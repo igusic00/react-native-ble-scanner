@@ -6,8 +6,8 @@ It uses:
 
 ### Setup:
 
-  1. git clone https://github.com/igusic00/react-native-ble-scanner-demo3.git
-  2. cd react-native-ble-scanner-demo3
+  1. git clone https://github.com/igusic00/react-native-ble-scanner.git
+  2. cd react-native-ble-scanner
   3. npm install
   4. react-native run-android
 
