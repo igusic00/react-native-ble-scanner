@@ -14,3 +14,5 @@ It uses:
 ### Android: Device is not authorized to use BLE
 
 Open "Settings -> Apps -> blescanner -> Permissions -> Location -> Allow"
+
+![ble-scanner](https://user-images.githubusercontent.com/17699343/171441096-6815c2e1-8825-46ef-94d1-ea590a6524a8.png)
